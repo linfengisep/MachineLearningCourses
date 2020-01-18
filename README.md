@@ -19,7 +19,15 @@ Vue que le cours est toujours actif, il est interdit de envoyer mes codes concer
 C'est un cours réparti en 11 semaines, histoire de bien enseigner en divisant par semaine avec quantité plus ou moins identique et faisable. 
 En revanche, moi,afin de bien résumer et présenter ce que j'ai appris, je vais grouper ce domaine par : 
 **TODO:concepte une schéma avec outil Xmind**
->supervised learning
-Regression linéaire,logistique 
-unsupervised learning
-cluster
+1. supervised learning
+Regression linéaire:les données sortis estimé en continu
+classification:
+
+2. unsupervised learning
+Cluster
+un algo:K-means algo
+
+
+
+### PCA
+Dimensionality reduction
