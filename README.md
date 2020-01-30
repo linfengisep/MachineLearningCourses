@@ -31,3 +31,18 @@ un algo:K-means algo
 
 ### PCA
 Dimensionality reduction
+
+
+### Semaine 10 large dataset 
+>It's not who has the best algorithm that wins. It's who has the most data.
+Batch gradient descent:use all m examples in each iteration.
+Stochastic gradient descent:use one example in each iteration.
+Mini-Batch gradient descent:use b(b<m) example in each iteration.
+
+
+Online learning
+
+Map reduce and data parallelism.
+separate the data, let different machine trait one part,at the end, collect all result together.
+
+
